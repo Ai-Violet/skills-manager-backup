@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d41e00bd-af2e-428e-93db-9b3cead17d34",
+  "path": "codebase-design",
+  "path_key": "codebase-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

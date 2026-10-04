@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "f5d8f78b-a79f-46dd-aaea-e3ddee936759",
+  "path": "docker-agent-deploy",
+  "path_key": "docker-agent-deploy",
+  "enabled": true,
+  "tags": [
+    "docker"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

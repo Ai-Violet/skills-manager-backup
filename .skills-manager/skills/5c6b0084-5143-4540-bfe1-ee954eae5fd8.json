@@ -4,7 +4,9 @@
   "path": "game-developer",
   "path_key": "game-developer",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "game"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "jeffallan/claude-skills/game-developer",

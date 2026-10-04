@@ -4,7 +4,9 @@
   "path": "brand-guidelines",
   "path_key": "brand-guidelines",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "art"
+  ],
   "source": {
     "type": "local",
     "ref": null,

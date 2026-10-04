@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "52f17aff-08be-4cce-806d-a1fbd8410286",
+  "path": "docker-destructive-guardrails",
+  "path_key": "docker-destructive-guardrails",
+  "enabled": true,
+  "tags": [
+    "docker"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -4,7 +4,9 @@
   "path": "wait-what",
   "path_key": "wait-what",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "workflow"
+  ],
   "source": {
     "type": "import",
     "ref": null,

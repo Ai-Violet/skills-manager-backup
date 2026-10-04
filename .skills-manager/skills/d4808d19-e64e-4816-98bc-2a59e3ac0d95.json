@@ -4,7 +4,9 @@
   "path": "web-artifacts-builder",
   "path_key": "web-artifacts-builder",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "frontend"
+  ],
   "source": {
     "type": "local",
     "ref": null,

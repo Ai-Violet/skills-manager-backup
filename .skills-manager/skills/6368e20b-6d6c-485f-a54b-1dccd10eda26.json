@@ -4,7 +4,9 @@
   "path": "impeccable",
   "path_key": "impeccable",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "frontend"
+  ],
   "source": {
     "type": "import",
     "ref": null,

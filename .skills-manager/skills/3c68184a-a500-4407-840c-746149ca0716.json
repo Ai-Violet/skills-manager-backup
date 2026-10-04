@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "3c68184a-a500-4407-840c-746149ca0716",
+  "path": "docker-compose-patterns",
+  "path_key": "docker-compose-patterns",
+  "enabled": true,
+  "tags": [
+    "docker"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "c33419c6-cc9a-40d5-b780-43bbdac2bc8e",
+  "name": "容器与部署",
+  "description": null,
+  "icon": "container",
+  "sort_order": 999
+}

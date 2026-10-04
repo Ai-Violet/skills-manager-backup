@@ -4,7 +4,9 @@
   "path": "research",
   "path_key": "research",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "docs"
+  ],
   "source": {
     "type": "import",
     "ref": null,

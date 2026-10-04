@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "31e9b852-08f4-448b-8ccc-490696984b5e",
+  "path": "mobile-native",
+  "path_key": "mobile-native",
+  "enabled": true,
+  "tags": [
+    "frontend"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

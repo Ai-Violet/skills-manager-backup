@@ -4,7 +4,10 @@
   "path": "teach",
   "path_key": "teach",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "docs",
+    "workflow"
+  ],
   "source": {
     "type": "import",
     "ref": null,

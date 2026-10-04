@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "70e97f7d-2167-42af-ad4f-e1641515dcf1",
+  "path": "apple-design",
+  "path_key": "apple-design",
+  "enabled": true,
+  "tags": [
+    "frontend",
+    "motion"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

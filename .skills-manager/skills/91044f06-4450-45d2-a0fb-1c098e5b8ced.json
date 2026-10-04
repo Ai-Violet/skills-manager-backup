@@ -4,7 +4,9 @@
   "path": "code-review",
   "path_key": "code-review",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "workflow"
+  ],
   "source": {
     "type": "import",
     "ref": null,

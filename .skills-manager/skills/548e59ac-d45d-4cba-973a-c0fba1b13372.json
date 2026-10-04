@@ -4,7 +4,9 @@
   "path": "webapp-testing",
   "path_key": "webapp-testing",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "frontend"
+  ],
   "source": {
     "type": "import",
     "ref": null,

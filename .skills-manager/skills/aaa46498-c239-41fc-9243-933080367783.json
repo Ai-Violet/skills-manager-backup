@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "aaa46498-c239-41fc-9243-933080367783",
+  "path": "animate-expo",
+  "path_key": "animate-expo",
+  "enabled": true,
+  "tags": [
+    "motion"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

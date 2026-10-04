@@ -4,7 +4,9 @@
   "path": "threejs-3d-generator",
   "path_key": "threejs-3d-generator",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "game"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "majidmanzarpour/threejs-game-skills/threejs-3d-generator",

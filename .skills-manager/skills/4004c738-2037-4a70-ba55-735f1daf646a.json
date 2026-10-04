@@ -4,7 +4,9 @@
   "path": "algorithmic-art",
   "path_key": "algorithmic-art",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "art"
+  ],
   "source": {
     "type": "local",
     "ref": null,

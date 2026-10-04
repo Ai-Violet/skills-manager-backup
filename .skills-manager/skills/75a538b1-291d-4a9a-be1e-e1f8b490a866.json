@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "75a538b1-291d-4a9a-be1e-e1f8b490a866",
+  "path": "game-ui-ux",
+  "path_key": "game-ui-ux",
+  "enabled": true,
+  "tags": [
+    "game"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

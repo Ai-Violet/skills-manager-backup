@@ -4,7 +4,9 @@
   "path": "industrial-brutalist-ui",
   "path_key": "industrial-brutalist-ui",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "frontend"
+  ],
   "source": {
     "type": "local",
     "ref": null,

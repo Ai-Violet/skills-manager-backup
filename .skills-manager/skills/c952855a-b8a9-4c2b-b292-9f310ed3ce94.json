@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "c952855a-b8a9-4c2b-b292-9f310ed3ce94",
+  "path": "emil-design-eng",
+  "path_key": "emil-design-eng",
+  "enabled": true,
+  "tags": [
+    "frontend",
+    "motion"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

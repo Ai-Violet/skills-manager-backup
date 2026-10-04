@@ -4,7 +4,9 @@
   "path": "implement",
   "path_key": "implement",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "workflow"
+  ],
   "source": {
     "type": "import",
     "ref": null,

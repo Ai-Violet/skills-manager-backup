@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "cc2ebeeb-91c1-488f-9972-431b6e323a29",
+  "path": "phaser-core",
+  "path_key": "phaser-core",
+  "enabled": true,
+  "tags": [
+    "game"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

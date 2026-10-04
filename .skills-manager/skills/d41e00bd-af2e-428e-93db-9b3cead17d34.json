@@ -4,7 +4,9 @@
   "path": "codebase-design",
   "path_key": "codebase-design",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "workflow"
+  ],
   "source": {
     "type": "import",
     "ref": null,

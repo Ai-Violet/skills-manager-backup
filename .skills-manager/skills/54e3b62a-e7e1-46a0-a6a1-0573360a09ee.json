@@ -4,7 +4,9 @@
   "path": "prototype",
   "path_key": "prototype",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "workflow"
+  ],
   "source": {
     "type": "import",
     "ref": null,

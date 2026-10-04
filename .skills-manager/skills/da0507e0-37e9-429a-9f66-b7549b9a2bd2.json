@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "da0507e0-37e9-429a-9f66-b7549b9a2bd2",
+  "path": "threejs-scene-setup",
+  "path_key": "threejs-scene-setup",
+  "enabled": true,
+  "tags": [
+    "game"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

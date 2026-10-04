@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "5433ae58-510e-41cf-96fe-e794c1165b2a",
+  "path": "docker-agent-config",
+  "path_key": "docker-agent-config",
+  "enabled": true,
+  "tags": [
+    "docker"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

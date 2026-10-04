@@ -4,7 +4,9 @@
   "path": "to-tickets",
   "path_key": "to-tickets",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "workflow"
+  ],
   "source": {
     "type": "import",
     "ref": null,

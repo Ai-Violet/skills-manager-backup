@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "b68a9c92-ea8b-4ab4-8055-75743fdcfa83",
+  "path": "docker-project-foundations",
+  "path_key": "docker-project-foundations",
+  "enabled": true,
+  "tags": [
+    "docker"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

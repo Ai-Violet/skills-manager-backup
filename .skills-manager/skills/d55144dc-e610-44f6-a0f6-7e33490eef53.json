@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "d55144dc-e610-44f6-a0f6-7e33490eef53",
+  "path": "docker-build-strategies",
+  "path_key": "docker-build-strategies",
+  "enabled": true,
+  "tags": [
+    "docker"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

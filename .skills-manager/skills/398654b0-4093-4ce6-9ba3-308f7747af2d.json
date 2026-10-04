@@ -4,7 +4,9 @@
   "path": "mcp-builder",
   "path_key": "mcp-builder",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "meta"
+  ],
   "source": {
     "type": "local",
     "ref": null,

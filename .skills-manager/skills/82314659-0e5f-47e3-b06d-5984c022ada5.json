@@ -4,7 +4,9 @@
   "path": "threejs-game-director",
   "path_key": "threejs-game-director",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "game"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "majidmanzarpour/threejs-game-skills/threejs-game-director",

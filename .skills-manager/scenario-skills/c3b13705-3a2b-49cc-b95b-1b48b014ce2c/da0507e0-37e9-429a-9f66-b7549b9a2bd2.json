@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "scenario_id": "c3b13705-3a2b-49cc-b95b-1b48b014ce2c",
+  "skill_id": "da0507e0-37e9-429a-9f66-b7549b9a2bd2",
+  "sort_order": 8,
+  "tools": {
+    "claude_code": true,
+    "codex": true,
+    "deepseek_harness": true,
+    "mimo": true,
+    "trae_cn": true
+  }
+}

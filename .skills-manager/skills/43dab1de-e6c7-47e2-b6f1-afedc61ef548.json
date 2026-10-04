@@ -4,7 +4,9 @@
   "path": "grilling",
   "path_key": "grilling",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "workflow"
+  ],
   "source": {
     "type": "import",
     "ref": null,

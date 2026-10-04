@@ -4,7 +4,9 @@
   "path": "threejs-game-ui-designer",
   "path_key": "threejs-game-ui-designer",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "game"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "majidmanzarpour/threejs-game-skills/threejs-game-ui-designer",

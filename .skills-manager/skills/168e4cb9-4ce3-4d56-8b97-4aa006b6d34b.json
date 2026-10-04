@@ -4,7 +4,9 @@
   "path": "to-spec",
   "path_key": "to-spec",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "workflow"
+  ],
   "source": {
     "type": "import",
     "ref": null,

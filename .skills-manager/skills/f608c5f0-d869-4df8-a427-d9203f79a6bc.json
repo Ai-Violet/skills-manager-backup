@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "f608c5f0-d869-4df8-a427-d9203f79a6bc",
+  "path": "docker-sandboxes-network-credentials",
+  "path_key": "docker-sandboxes-network-credentials",
+  "enabled": true,
+  "tags": [
+    "docker"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

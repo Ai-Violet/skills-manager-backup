@@ -4,7 +4,9 @@
   "path": "wizard",
   "path_key": "wizard",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "meta"
+  ],
   "source": {
     "type": "import",
     "ref": null,

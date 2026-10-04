@@ -4,7 +4,9 @@
   "path": "to-questionnaire",
   "path_key": "to-questionnaire",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "workflow"
+  ],
   "source": {
     "type": "import",
     "ref": null,

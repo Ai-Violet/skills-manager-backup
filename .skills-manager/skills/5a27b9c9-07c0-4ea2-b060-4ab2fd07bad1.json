@@ -4,7 +4,9 @@
   "path": "pdf",
   "path_key": "pdf",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "docs"
+  ],
   "source": {
     "type": "local",
     "ref": null,

@@ -4,7 +4,10 @@
   "path": "writing-for-agents",
   "path_key": "writing-for-agents",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "docs",
+    "meta"
+  ],
   "source": {
     "type": "import",
     "ref": null,

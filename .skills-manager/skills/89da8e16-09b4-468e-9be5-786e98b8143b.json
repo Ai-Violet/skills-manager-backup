@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "89da8e16-09b4-468e-9be5-786e98b8143b",
+  "path": "gamedev-router",
+  "path_key": "gamedev-router",
+  "enabled": true,
+  "tags": [
+    "game"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

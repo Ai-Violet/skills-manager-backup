@@ -4,7 +4,9 @@
   "path": "resolving-merge-conflicts",
   "path_key": "resolving-merge-conflicts",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "workflow"
+  ],
   "source": {
     "type": "import",
     "ref": null,

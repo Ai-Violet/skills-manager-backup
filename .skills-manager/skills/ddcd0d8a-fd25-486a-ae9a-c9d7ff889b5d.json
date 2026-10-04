@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "ddcd0d8a-fd25-486a-ae9a-c9d7ff889b5d",
+  "path": "write-swift",
+  "path_key": "write-swift",
+  "enabled": true,
+  "tags": [
+    "lang"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

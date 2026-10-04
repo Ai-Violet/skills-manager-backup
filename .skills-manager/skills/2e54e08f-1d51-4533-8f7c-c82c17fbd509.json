@@ -4,7 +4,9 @@
   "path": "minimalist-ui",
   "path_key": "minimalist-ui",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "frontend"
+  ],
   "source": {
     "type": "local",
     "ref": null,

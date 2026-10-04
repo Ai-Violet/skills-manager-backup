@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "918725f4-ac91-47d2-91e5-bc32749d06ff",
+  "path": "pr",
+  "path_key": "pr",
+  "enabled": true,
+  "tags": [
+    "workflow"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

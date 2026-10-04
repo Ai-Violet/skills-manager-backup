@@ -4,7 +4,9 @@
   "path": "threejs-qa-release",
   "path_key": "threejs-qa-release",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "game"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "majidmanzarpour/threejs-game-skills/threejs-qa-release",

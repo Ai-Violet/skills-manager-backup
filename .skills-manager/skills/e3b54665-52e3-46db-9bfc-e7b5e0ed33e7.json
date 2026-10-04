@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "e3b54665-52e3-46db-9bfc-e7b5e0ed33e7",
+  "path": "docker-sandboxes-kits",
+  "path_key": "docker-sandboxes-kits",
+  "enabled": true,
+  "tags": [
+    "docker"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

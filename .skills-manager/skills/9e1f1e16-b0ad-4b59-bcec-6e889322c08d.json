@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "9e1f1e16-b0ad-4b59-bcec-6e889322c08d",
+  "path": "ask-sonner",
+  "path_key": "ask-sonner",
+  "enabled": true,
+  "tags": [
+    "frontend"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

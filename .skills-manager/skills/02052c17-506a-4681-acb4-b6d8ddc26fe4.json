@@ -4,7 +4,9 @@
   "path": "threejs-audio-generator",
   "path_key": "threejs-audio-generator",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "game"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "majidmanzarpour/threejs-game-skills/threejs-audio-generator",

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "cba72cef-dc23-4dd1-a303-75d4d8456a5d",
+  "path": "improve-animations",
+  "path_key": "improve-animations",
+  "enabled": true,
+  "tags": [
+    "motion"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

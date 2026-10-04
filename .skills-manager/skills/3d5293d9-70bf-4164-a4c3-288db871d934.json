@@ -4,7 +4,9 @@
   "path": "threejs-gameplay-systems",
   "path_key": "threejs-gameplay-systems",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "game"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "majidmanzarpour/threejs-game-skills/threejs-gameplay-systems",

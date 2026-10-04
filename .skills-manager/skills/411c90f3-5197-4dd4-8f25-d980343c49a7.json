@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "411c90f3-5197-4dd4-8f25-d980343c49a7",
+  "path": "domain-modeling",
+  "path_key": "domain-modeling",
+  "enabled": true,
+  "tags": [
+    "workflow"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

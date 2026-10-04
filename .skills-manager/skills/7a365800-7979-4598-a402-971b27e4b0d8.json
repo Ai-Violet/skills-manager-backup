@@ -4,7 +4,9 @@
   "path": "pptx",
   "path_key": "pptx",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "docs"
+  ],
   "source": {
     "type": "local",
     "ref": null,

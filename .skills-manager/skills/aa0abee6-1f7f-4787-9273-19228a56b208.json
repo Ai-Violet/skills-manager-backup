@@ -4,7 +4,9 @@
   "path": "xlsx",
   "path_key": "xlsx",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "docs"
+  ],
   "source": {
     "type": "local",
     "ref": null,

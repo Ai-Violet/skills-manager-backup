@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "c72a014d-e400-4ad8-9222-c67aeb85b524",
+  "path": "game-feel",
+  "path_key": "game-feel",
+  "enabled": true,
+  "tags": [
+    "game"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

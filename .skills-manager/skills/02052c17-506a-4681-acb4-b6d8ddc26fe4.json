@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "02052c17-506a-4681-acb4-b6d8ddc26fe4",
+  "path": "threejs-audio-generator",
+  "path_key": "threejs-audio-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "majidmanzarpour/threejs-game-skills/threejs-audio-generator",
+    "subpath": "skills\\threejs-audio-generator",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3d5293d9-70bf-4164-a4c3-288db871d934",
+  "path": "threejs-gameplay-systems",
+  "path_key": "threejs-gameplay-systems",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "majidmanzarpour/threejs-game-skills/threejs-gameplay-systems",
+    "subpath": "skills\\threejs-gameplay-systems",
+    "branch": null
+  }
+}

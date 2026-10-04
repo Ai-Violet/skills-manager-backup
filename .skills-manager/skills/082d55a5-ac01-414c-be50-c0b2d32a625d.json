@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "082d55a5-ac01-414c-be50-c0b2d32a625d",
+  "path": "threejs-game-ui-designer",
+  "path_key": "threejs-game-ui-designer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "majidmanzarpour/threejs-game-skills/threejs-game-ui-designer",
+    "subpath": "skills\\threejs-game-ui-designer",
+    "branch": null
+  }
+}

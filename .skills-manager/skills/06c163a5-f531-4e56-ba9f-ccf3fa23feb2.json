@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "06c163a5-f531-4e56-ba9f-ccf3fa23feb2",
+  "path": "threejs-qa-release",
+  "path_key": "threejs-qa-release",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "majidmanzarpour/threejs-game-skills/threejs-qa-release",
+    "subpath": "skills\\threejs-qa-release",
+    "branch": null
+  }
+}

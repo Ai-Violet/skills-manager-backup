@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e7cc9827-23bb-4af1-a3b7-25b80d0d35db",
+  "path": "threejs-3d-generator",
+  "path_key": "threejs-3d-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "majidmanzarpour/threejs-game-skills/threejs-3d-generator",
+    "subpath": "skills\\threejs-3d-generator",
+    "branch": null
+  }
+}

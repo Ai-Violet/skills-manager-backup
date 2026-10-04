@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "82314659-0e5f-47e3-b06d-5984c022ada5",
+  "path": "threejs-game-director",
+  "path_key": "threejs-game-director",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "majidmanzarpour/threejs-game-skills/threejs-game-director",
+    "subpath": "skills\\threejs-game-director",
+    "branch": null
+  }
+}

@@ -1,1 +1,4 @@
-﻿{"displayName":"等等没懂","brief":"消息没听懂时，用你的上下文重新讲清楚"}
+﻿{
+    "displayName":  "Wait What",
+    "brief":  "澄清歧义指令"
+}

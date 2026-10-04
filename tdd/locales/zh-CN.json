@@ -1,1 +1,4 @@
-﻿{"displayName":"测试驱动","brief":"红绿重构的测试驱动开发纪律"}
+﻿{
+    "displayName":  "TDD",
+    "brief":  "测试驱动开发"
+}

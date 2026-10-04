@@ -1,1 +1,4 @@
-﻿{"displayName":"To Questionnaire","brief":"Turn a decision into a questionnaire for someone else"}
+﻿{
+    "displayName":  "To Questionnaire",
+    "brief":  "Generate a questionnaire"
+}

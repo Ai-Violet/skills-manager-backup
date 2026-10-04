@@ -1,1 +1,4 @@
-﻿{"displayName":"问卷","brief":"把无法独立决定的问题变成问卷交给他人"}
+﻿{
+    "displayName":  "To Questionnaire",
+    "brief":  "生成问卷"
+}

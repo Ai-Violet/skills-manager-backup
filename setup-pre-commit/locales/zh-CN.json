@@ -1,0 +1,4 @@
+﻿{
+    "displayName":  "Setup Pre-commit",
+    "brief":  "配置 pre-commit 钩子"
+}

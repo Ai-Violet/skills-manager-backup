@@ -1,1 +1,4 @@
-﻿{"displayName":"Grill With Docs","brief":"Relentless interview that also writes ADRs and glossary"}
+﻿{
+    "displayName":  "Grill With Docs",
+    "brief":  "Grill with documentation context"
+}

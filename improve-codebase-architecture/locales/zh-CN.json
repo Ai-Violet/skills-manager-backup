@@ -1,1 +1,4 @@
-﻿{"displayName":"架构体检","brief":"扫描深模块机会并生成可视化 HTML 报告"}
+﻿{
+    "displayName":  "Improve Architecture",
+    "brief":  "改进代码库架构"
+}

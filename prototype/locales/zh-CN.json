@@ -1,1 +1,4 @@
-﻿{"displayName":"原型","brief":"一次性原型，快速验证设计问题"}
+﻿{
+    "displayName":  "Prototype",
+    "brief":  "快速原型验证设计问题"
+}

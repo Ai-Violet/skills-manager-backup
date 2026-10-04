@@ -1,1 +1,4 @@
-﻿{"displayName":"To Tickets","brief":"Break a plan into tracer-bullet tickets with blocking edges"}
+﻿{
+    "displayName":  "To Tickets",
+    "brief":  "Split a spec into tickets"
+}

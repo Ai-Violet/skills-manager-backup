@@ -1,1 +1,4 @@
-﻿{"displayName":"实现","brief":"按规格/工单实现，串联 TDD 与代码评审"}
+﻿{
+    "displayName":  "Implement",
+    "brief":  "按规格实现功能"
+}

@@ -1,1 +1,4 @@
-﻿{"displayName":"Wizard","brief":"Generate an interactive bash wizard for human-only steps"}
+﻿{
+    "displayName":  "Wizard",
+    "brief":  "Interactive bash wizard for human-only steps"
+}

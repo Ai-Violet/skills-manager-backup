@@ -1,1 +1,4 @@
-﻿{"displayName":"Improve Architecture","brief":"Scan for deepening opportunities and report as HTML"}
+﻿{
+    "displayName":  "Improve Architecture",
+    "brief":  "Improve codebase architecture"
+}

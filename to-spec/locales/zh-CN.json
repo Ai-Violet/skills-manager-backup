@@ -1,1 +1,4 @@
-﻿{"displayName":"对话转规格","brief":"把当前对话综合成规格并发布到 issue 跟踪器"}
+﻿{
+    "displayName":  "To Spec",
+    "brief":  "把想法变成规格"
+}

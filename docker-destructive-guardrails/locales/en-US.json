@@ -1,0 +1,4 @@
+﻿{
+    "displayName":  "Docker Guardrails",
+    "brief":  "Guardrails for destructive Docker ops"
+}

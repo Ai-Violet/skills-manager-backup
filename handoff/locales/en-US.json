@@ -1,1 +1,4 @@
-﻿{"displayName":"Handoff","brief":"Compact the conversation into a handoff document"}
+﻿{
+    "displayName":  "Handoff",
+    "brief":  "Work handoff"
+}

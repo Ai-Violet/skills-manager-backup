@@ -1,1 +1,4 @@
-﻿{"displayName":"Implement","brief":"Build work from a spec or tickets with TDD and code review"}
+﻿{
+    "displayName":  "Implement",
+    "brief":  "Implement features from a spec"
+}

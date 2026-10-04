@@ -1,1 +1,4 @@
-﻿{"displayName":"Wait What","brief":"Re-pitch the last message in plain English"}
+﻿{
+    "displayName":  "Wait What",
+    "brief":  "Clarify ambiguous instructions"
+}

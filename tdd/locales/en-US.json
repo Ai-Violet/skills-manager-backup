@@ -1,1 +1,4 @@
-﻿{"displayName":"TDD","brief":"Red-green-refactor test-driven development"}
+﻿{
+    "displayName":  "TDD",
+    "brief":  "Test-driven development"
+}

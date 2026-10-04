@@ -1,1 +1,4 @@
-﻿{"displayName":"Code Review","brief":"Two-axis review: Standards and Spec, run in parallel"}
+﻿{
+    "displayName":  "Code Review",
+    "brief":  "Review code changes against standards and spec"
+}

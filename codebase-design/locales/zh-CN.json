@@ -1,1 +1,4 @@
-﻿{"displayName":"代码库设计","brief":"深模块与接缝设计的共享词汇与纪律"}
+﻿{
+    "displayName":  "Codebase Design",
+    "brief":  "深模块与接口设计词汇"
+}

@@ -1,1 +1,4 @@
-﻿{"displayName":"交接","brief":"把当前对话压缩成交接文档给下一个会话"}
+﻿{
+    "displayName":  "Handoff",
+    "brief":  "工作交接"
+}

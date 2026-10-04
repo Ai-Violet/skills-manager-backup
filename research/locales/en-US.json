@@ -1,1 +1,4 @@
-﻿{"displayName":"Research","brief":"Research a question from primary sources into a cited doc"}
+﻿{
+    "displayName":  "Research",
+    "brief":  "Research against primary sources into the repo"
+}

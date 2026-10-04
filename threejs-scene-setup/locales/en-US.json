@@ -1,0 +1,4 @@
+﻿{
+    "displayName":  "Three.js Scene Setup",
+    "brief":  "Three.js scene/camera/renderer setup and animation loop"
+}

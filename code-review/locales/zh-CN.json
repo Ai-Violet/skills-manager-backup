@@ -1,1 +1,4 @@
-﻿{"displayName":"代码评审","brief":"双轴评审：规范与需求规格，并行子代理执行"}
+﻿{
+    "displayName":  "Code Review",
+    "brief":  "按规范与需求双轴审查代码变更"
+}
